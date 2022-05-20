@@ -1,0 +1,23 @@
+{
+  "name": "blog-desenvolve",
+  "version": "1.0.0",
+  "description": "Projeto Desenvolve Devops",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuchy/blog-desenvolve.git"
+  },
+  "author": "Devops Desenvolve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuchy/blog-desenvolve/issues"
+  },
+  "homepage": "https://github.com/msuchy/blog-desenvolve#readme",
+  "dependencies": {
+    "fastify": "^3.29.0"
+  }
+}
